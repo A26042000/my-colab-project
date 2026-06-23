@@ -1,0 +1,8 @@
+# Phase 0a dependencies. Pinned loosely; tighten if you hit version drift.
+transformers>=4.44
+datasets>=2.20
+accelerate>=0.33
+torch
+matplotlib
+numpy
+nbformat
